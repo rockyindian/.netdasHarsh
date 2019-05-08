@@ -1,0 +1,2 @@
+C:\Users\Harshvardhan\source\repos\ConsoleApp\ConsoleDemo\multiArray\obj\Debug\multiArray.csprojAssemblyReference.cache
+C:\Users\Harshvardhan\source\repos\ConsoleApp\ConsoleDemo\multiArray\obj\Debug\multiArray.csproj.CoreCompileInputs.cache
